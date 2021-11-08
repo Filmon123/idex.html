@@ -1,0 +1,62 @@
+
+button{
+    margin-left: 250px;
+    width: 80px;
+    height: 25px;
+  }
+  
+  body {
+    background-color: rgb(165, 42, 48);
+  }
+  h1 {
+    margin:0%;
+    padding: 0%;
+    background-attachment: fixed;
+  
+  }
+  div {
+   margin:0%;
+  margin-top:0%;
+   width: 100px;
+   height: 100px;
+   background-color: blue;
+   display:inline-block;
+  }
+  div {
+   margin: 80px; 
+  color: rgb(255, 255, 0);
+  }
+  .copy {
+  font-family:italic; 
+  color: red;
+  }
+  button:hover {
+  background-color: orange;
+  color: white;
+  border: 1px solid black;
+  }
+  div p {
+  color: orange
+  
+  }
+  div {
+  color: blue;
+  background-color: chartreuse;
+  }
+  .green-text-div {
+  color: green
+  }
+  #container {
+  color: orange
+  }
+  span {
+  height: 100px;
+  width: 100px;
+  background-color: orange;
+  display: inline-block;
+  margin-left: 250px;
+  }
+  span:hover {
+  color: aqua;
+  background-color: brown;
+  }
